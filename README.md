@@ -1,1 +1,1 @@
-# Image-Translation-Paper
+# CT-to-MRI-Image-Translation-using-convolutional-autoencoders
